@@ -2,7 +2,7 @@
 Check if the Given JSON Input data fits the Prompt Rule If not return Invalid prompt if any fields are missing from the given data return Missing Data
 
 # Prompt Rules :
-PROMPT_RULES = {
+     PROMPT_RULES = {
     ("Commercial Auto", "Structure", "Summary Report"): "Prompt 1",
     ("General Liability", "Summarize", "Deposition"): "Prompt 2",
     ("Commercial Auto", "Summarize", "Summons"): "Prompt 3",
